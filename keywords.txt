@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+Adafruit_SI1145   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+reset  KEYWORD2
+readUV  KEYWORD2
+readIR  KEYWORD2
+readVisible  KEYWORD2
+readProx  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

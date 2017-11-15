@@ -1,0 +1,16 @@
+{
+    "name": "Adafruit_SI1145",
+    "version": "1.0.0",
+    "keywords": "Si1145",
+    "description": "Si1145 紫外红外可见光传感器库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/Adafruit_SI1145.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
